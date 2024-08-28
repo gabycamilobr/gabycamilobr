@@ -27,7 +27,7 @@
 
 ###
 
-<img align="right" height="140" src="https://media.tenor.com/fO423NnVgWMAAAAM/love-u-kisses.gif"  />
+<img align="right" height="130" src="https://media.tenor.com/fO423NnVgWMAAAAM/love-u-kisses.gif"  />
 
 ###
 
