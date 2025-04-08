@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Gabrielly and I'm a student from Fiap School</h1>
+<h1 align="left">Hi 👋! My name is Gabrielly and I'm a student from Fiap </h1>
 
 ###
 
